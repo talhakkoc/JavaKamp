@@ -15,7 +15,8 @@ public class CustomerManager {
 	
 	public void delete(Customer customer) {
 		System.out.println("Müþteri silindi" + customer.getFirstName());	
-	}
+	} 
+	//
 	
 
 }
