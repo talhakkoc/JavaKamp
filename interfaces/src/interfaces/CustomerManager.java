@@ -17,6 +17,7 @@ public class CustomerManager {
 		System.out.println("Müþteri silindi" + customer.getFirstName());	
 	} 
 	//
+	//
 	
 
 }
